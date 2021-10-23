@@ -1,8 +1,9 @@
-# KDACalcForD2
+# KDA Calculator For Dota 2
 Очень простой онлайн калькулятор для подсчета КДА[KDA] (Kill Death Assists) в Доте (возможно в будущем будут еще какие-то изменения, но пока нет) 
 
 Скрипт для страницы написан на [YoptaScript](https://github.com/samgozman/YoptaScript), но для удобства здесь выложен ориганльный JavaScript код. 
 
+ JS код:
 ```cs
 function func(){
 var num1 = Number(document.getElementById("num1").value);
@@ -15,7 +16,7 @@ document.getElementById("result").innerHTML = result;
 ```
 # Команда 
 ```
-frontend + script = Erghel 
+Frontend + Script = Erghel 
 
-Тестирование + фидбек = Etherus
+Тестирование + фидбек = Etherus, Gr1zLy, mindframe
 ```
