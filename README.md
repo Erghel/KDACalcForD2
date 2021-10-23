@@ -3,7 +3,7 @@
 
 Скрипт для страницы написан на [YoptaScript](https://github.com/samgozman/YoptaScript), но для удобства здесь выложен ориганльный JavaScript код. 
 
-```
+```cs
 function func(){
 var num1 = Number(document.getElementById("num1").value);
 var num2 = Number(document.getElementById("num2").value);
