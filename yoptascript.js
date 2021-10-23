@@ -1,35 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@Erghel
-grushan /
-Pong-YoptaScript
-Public
-
-2
-49
-
-    8
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-
-    Insights
-
-Pong-YoptaScript/Pong/yoptascript.js /
-grushan YoptaPong
-Latest commit 31a9d13 on 6 Dec 2016
-History
-0 contributors
-2460 lines (2452 sloc) 30.6 KB
 var dictionary = [
 	[
 		"includes",
