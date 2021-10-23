@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <title>Посчитай свой KDA Online</title>
+   <header> 
+     <h1>Посчитай свой KDA Online</h1>
+   </header>
+  <body class="knopki">
+  <input class="input1" placeholder="Убийства" id="num1"/>
+  <p>+</p>
+  <input class="input2" placeholder="Помощь" id="num2"/>
+  <p>/</p>
+  <input class="input3"placeholder="Смерти" id="num3"/>
+  <p></p>
+  <button class="result1" onclick="func()">Показать KD</button>
+
+ <p class="Kd" id="result"></p>
+
+ <script>
+    function func(){
+          var num1 = Number(document.getElementById("num1").value);
+          var num2 = Number(document.getElementById("num2").value);
+          var num3 = Number(document.getElementById("num3").value);
+          var result = (num1 + num2) / num3 ;
+
+          document.getElementById("result").innerHTML = result;
+          }
+ </script>
+
+  </body>
+</html>
