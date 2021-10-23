@@ -14,5 +14,8 @@ document.getElementById("result").innerHTML = result;
 }
 ```
 # Команда 
+```
 frontend + script = Erghel 
+
 Тестирование + фидбек = Etherus
+```
