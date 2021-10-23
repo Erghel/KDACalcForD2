@@ -13,3 +13,6 @@ var result = (num1 + num2) / num3 ;
 document.getElementById("result").innerHTML = result;
 }
 ```
+# Команда 
+frontend + script = Erghel 
+Тестирование + фидбек = Etherus
