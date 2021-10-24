@@ -18,5 +18,5 @@ document.getElementById("result").innerHTML = result;
 ```
 Frontend + Script = Erghel 
 
-Тестирование + фидбек = Etherus, Gr1zLy, mindframe
+Тестирование + фидбек = Etherus, Gr1zLy, mindframe, wade
 ```
