@@ -4,12 +4,12 @@
 Скрипт для страницы написан на [YoptaScript](https://github.com/samgozman/YoptaScript), но для удобства здесь выложен ориганльный JavaScript код. 
 
  JS код:
-```cs
+```js
 function func(){
  var num1 = Number(document.getElementById("num1").value);
  var num2 = Number(document.getElementById("num2").value);
  var num3 = Number(document.getElementById("num3").value);
- var result = (num1 + num2) / num3 ;
+ var result = (num1 + num2) / num3;
 
   document.getElementById("result").innerHTML = result;
 }
